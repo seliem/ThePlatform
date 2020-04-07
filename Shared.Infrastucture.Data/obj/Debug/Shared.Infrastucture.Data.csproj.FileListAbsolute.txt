@@ -1,0 +1,15 @@
+C:\SeliemWorkspace\MyGitHub\ThePlatform\Shared.Infrastucture.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\SeliemWorkspace\MyGitHub\ThePlatform\Shared.Infrastucture.Data\bin\Debug\EntityFramework.dll
+C:\SeliemWorkspace\MyGitHub\ThePlatform\Shared.Infrastucture.Data\obj\Debug\Shared.Infrastucture.Data.csprojAssemblyReference.cache
+C:\SeliemWorkspace\MyGitHub\ThePlatform\Shared.Infrastucture.Data\obj\Debug\Shared.Infrastucture.Data.csproj.CoreCompileInputs.cache
+C:\SeliemWorkspace\MyGitHub\ThePlatform\Shared.Infrastucture.Data\obj\Debug\Shared.Infrastucture.Data.csproj.CopyComplete
+C:\SeliemWorkspace\MyGitHub\ThePlatform\Shared.Infrastucture.Data\bin\Debug\Shared.Infrastucture.Data.dll.config
+C:\SeliemWorkspace\MyGitHub\ThePlatform\Shared.Infrastucture.Data\bin\Debug\Shared.Infrastucture.Data.dll
+C:\SeliemWorkspace\MyGitHub\ThePlatform\Shared.Infrastucture.Data\bin\Debug\Shared.Infrastucture.Data.pdb
+C:\SeliemWorkspace\MyGitHub\ThePlatform\Shared.Infrastucture.Data\bin\Debug\Shared.Domain.Model.dll
+C:\SeliemWorkspace\MyGitHub\ThePlatform\Shared.Infrastucture.Data\bin\Debug\Shared.Infrastucture.Data.Core.dll
+C:\SeliemWorkspace\MyGitHub\ThePlatform\Shared.Infrastucture.Data\bin\Debug\Shared.Domain.Model.pdb
+C:\SeliemWorkspace\MyGitHub\ThePlatform\Shared.Infrastucture.Data\bin\Debug\Shared.Infrastucture.Data.Core.pdb
+C:\SeliemWorkspace\MyGitHub\ThePlatform\Shared.Infrastucture.Data\bin\Debug\Shared.Infrastucture.Data.Core.dll.config
+C:\SeliemWorkspace\MyGitHub\ThePlatform\Shared.Infrastucture.Data\obj\Debug\Shared.Infrastucture.Data.dll
+C:\SeliemWorkspace\MyGitHub\ThePlatform\Shared.Infrastucture.Data\obj\Debug\Shared.Infrastucture.Data.pdb

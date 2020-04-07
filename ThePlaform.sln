@@ -1,0 +1,97 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared", "Shared", "{BC501340-FF9C-4CFA-A374-E43C92793CF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared.CrossCutting", "Shared.CrossCutting\Shared.CrossCutting.csproj", "{C3577199-3CBC-42F8-AAEA-6FE2DE7CCA4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared.Domain.Model", "Shared.Domain.Model\Shared.Domain.Model.csproj", "{A26C8A13-F00F-4F81-AF1C-C7BDDF83A1A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared.Infrastucture.Data", "Shared.Infrastucture.Data\Shared.Infrastucture.Data.csproj", "{EBFA99A9-5AE0-4A18-8729-AEFF3F96F3F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared.Infrastucture.Data.Core", "Shared.Infrastucture.Data.Core\Shared.Infrastucture.Data.Core.csproj", "{8EB89555-26EE-4D3C-9639-B01AF7C4DF66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3577199-3CBC-42F8-AAEA-6FE2DE7CCA4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3577199-3CBC-42F8-AAEA-6FE2DE7CCA4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3577199-3CBC-42F8-AAEA-6FE2DE7CCA4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3577199-3CBC-42F8-AAEA-6FE2DE7CCA4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A26C8A13-F00F-4F81-AF1C-C7BDDF83A1A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A26C8A13-F00F-4F81-AF1C-C7BDDF83A1A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A26C8A13-F00F-4F81-AF1C-C7BDDF83A1A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A26C8A13-F00F-4F81-AF1C-C7BDDF83A1A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBFA99A9-5AE0-4A18-8729-AEFF3F96F3F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBFA99A9-5AE0-4A18-8729-AEFF3F96F3F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBFA99A9-5AE0-4A18-8729-AEFF3F96F3F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBFA99A9-5AE0-4A18-8729-AEFF3F96F3F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EB89555-26EE-4D3C-9639-B01AF7C4DF66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EB89555-26EE-4D3C-9639-B01AF7C4DF66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EB89555-26EE-4D3C-9639-B01AF7C4DF66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EB89555-26EE-4D3C-9639-B01AF7C4DF66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C3577199-3CBC-42F8-AAEA-6FE2DE7CCA4B} = {BC501340-FF9C-4CFA-A374-E43C92793CF4}
+		{A26C8A13-F00F-4F81-AF1C-C7BDDF83A1A8} = {BC501340-FF9C-4CFA-A374-E43C92793CF4}
+		{EBFA99A9-5AE0-4A18-8729-AEFF3F96F3F2} = {BC501340-FF9C-4CFA-A374-E43C92793CF4}
+		{8EB89555-26EE-4D3C-9639-B01AF7C4DF66} = {BC501340-FF9C-4CFA-A374-E43C92793CF4}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17B7178D-2434-45DE-8F5B-36E9B4615912}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 11
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://mcs-alm-tfs:8080/tfs/mcs.applications
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ..\\Integrations\\Tamkeen.MCS.Integrations.Infrastructure.CMS\\Tamkeen.MCS.Integrations.Infrastructure.CMS.csproj
+		SccProjectTopLevelParentUniqueName1 = Tamkeen.MCS.Shared.sln
+		SccProjectName1 = ../Integrations/Tamkeen.MCS.Integrations.Infrastructure.CMS
+		SccLocalPath1 = ..\\Integrations\\Tamkeen.MCS.Integrations.Infrastructure.CMS
+		SccProjectUniqueName2 = ..\\Shared\\Tamkeen.MCS.Shared.CrossCutting\\Tamkeen.MCS.Shared.CrossCutting.csproj
+		SccProjectTopLevelParentUniqueName2 = Tamkeen.MCS.Shared.sln
+		SccProjectName2 = ../Shared/Tamkeen.MCS.Shared.CrossCutting
+		SccLocalPath2 = ..\\Shared\\Tamkeen.MCS.Shared.CrossCutting
+		SccProjectUniqueName3 = ..\\Shared\\Tamkeen.MCS.Shared.Domain.Model\\Tamkeen.MCS.Shared.Domain.Model.csproj
+		SccProjectTopLevelParentUniqueName3 = Tamkeen.MCS.Shared.sln
+		SccProjectName3 = ../Shared/Tamkeen.MCS.Shared.Domain.Model
+		SccLocalPath3 = ..\\Shared\\Tamkeen.MCS.Shared.Domain.Model
+		SccProjectUniqueName4 = ..\\Shared\\Tamkeen.MCS.Shared.Infrastucture.Data\\Tamkeen.MCS.Shared.Infrastucture.Data.csproj
+		SccProjectTopLevelParentUniqueName4 = Tamkeen.MCS.Shared.sln
+		SccProjectName4 = ../Shared/Tamkeen.MCS.Shared.Infrastucture.Data
+		SccLocalPath4 = ..\\Shared\\Tamkeen.MCS.Shared.Infrastucture.Data
+		SccProjectUniqueName5 = ..\\Shared\\Tamkeen.MCS.Shared.Infrastucture.Data.Core\\Tamkeen.MCS.Shared.Infrastucture.Data.Core.csproj
+		SccProjectTopLevelParentUniqueName5 = Tamkeen.MCS.Shared.sln
+		SccProjectName5 = ../Shared/Tamkeen.MCS.Shared.Infrastucture.Data.Core
+		SccLocalPath5 = ..\\Shared\\Tamkeen.MCS.Shared.Infrastucture.Data.Core
+		SccProjectUniqueName6 = ..\\Integrations\\Tamkeen.MCS.Integrations.Infrastructure.ESB\\Tamkeen.MCS.Integrations.Infrastructure.ESB.csproj
+		SccProjectTopLevelParentUniqueName6 = Tamkeen.MCS.Shared.sln
+		SccProjectName6 = ../Integrations/Tamkeen.MCS.Integrations.Infrastructure.ESB
+		SccLocalPath6 = ..\\Integrations\\Tamkeen.MCS.Integrations.Infrastructure.ESB
+		SccProjectUniqueName7 = ..\\Integrations\\Tamkeen.MCS.Integrations.Infrastructure.ISAM\\Tamkeen.MCS.Integrations.Infrastructure.ISAM.csproj
+		SccProjectTopLevelParentUniqueName7 = Tamkeen.MCS.Shared.sln
+		SccProjectName7 = ../Integrations/Tamkeen.MCS.Integrations.Infrastructure.ISAM
+		SccLocalPath7 = ..\\Integrations\\Tamkeen.MCS.Integrations.Infrastructure.ISAM
+		SccProjectUniqueName8 = ..\\Integrations\\Tamkeen.MCS.Integrations.Infrastructure.LID\\Tamkeen.MCS.Integrations.Infrastructure.LID.csproj
+		SccProjectTopLevelParentUniqueName8 = Tamkeen.MCS.Shared.sln
+		SccProjectName8 = ../Integrations/Tamkeen.MCS.Integrations.Infrastructure.LID
+		SccLocalPath8 = ..\\Integrations\\Tamkeen.MCS.Integrations.Infrastructure.LID
+		SccProjectUniqueName9 = ..\\Integrations\\Tamkeen.MCS.Integrations.Infrastructure.Notification\\Tamkeen.MCS.Integrations.Infrastructure.Notification.csproj
+		SccProjectTopLevelParentUniqueName9 = Tamkeen.MCS.Shared.sln
+		SccProjectName9 = ../Integrations/Tamkeen.MCS.Integrations.Infrastructure.Notification
+		SccLocalPath9 = ..\\Integrations\\Tamkeen.MCS.Integrations.Infrastructure.Notification
+		SccProjectUniqueName10 = ..\\Integrations\\Tamkeen.MCS.Integrations.Infrastructure.Workflow\\Tamkeen.MCS.Integrations.Infrastructure.Workflow.csproj
+		SccProjectTopLevelParentUniqueName10 = Tamkeen.MCS.Shared.sln
+		SccProjectName10 = ../Integrations/Tamkeen.MCS.Integrations.Infrastructure.Workflow
+		SccLocalPath10 = ..\\Integrations\\Tamkeen.MCS.Integrations.Infrastructure.Workflow
+	EndGlobalSection
+EndGlobal

@@ -1,6 +1,0 @@
-C:\SeliemWorkspace\MyGitHub\ThePlatform\Shared.Domain.Model\obj\Debug\Shared.Domain.Model.csproj.CoreCompileInputs.cache
-C:\SeliemWorkspace\MyGitHub\ThePlatform\Shared.Domain.Model\bin\Debug\Shared.Domain.Model.dll
-C:\SeliemWorkspace\MyGitHub\ThePlatform\Shared.Domain.Model\bin\Debug\Shared.Domain.Model.pdb
-C:\SeliemWorkspace\MyGitHub\ThePlatform\Shared.Domain.Model\obj\Debug\Shared.Domain.Model.dll
-C:\SeliemWorkspace\MyGitHub\ThePlatform\Shared.Domain.Model\obj\Debug\Shared.Domain.Model.pdb
-C:\SeliemWorkspace\MyGitHub\ThePlatform\Shared.Domain.Model\obj\Debug\Shared.Domain.Model.csprojAssemblyReference.cache

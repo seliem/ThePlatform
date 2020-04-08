@@ -1,6 +1,0 @@
-C:\SeliemWorkspace\MCS\MCS-TFS\2013\Masar.Shared\Masar.Shared\Shared\Tamkeen.MCS.Shared.Domain.Model\bin\Debug\Tamkeen.MCS.Shared.Domain.Model.dll
-C:\SeliemWorkspace\MCS\MCS-TFS\2013\Masar.Shared\Masar.Shared\Shared\Tamkeen.MCS.Shared.Domain.Model\bin\Debug\Tamkeen.MCS.Shared.Domain.Model.pdb
-C:\SeliemWorkspace\MCS\MCS-TFS\2013\Masar.Shared\Masar.Shared\Shared\Tamkeen.MCS.Shared.Domain.Model\obj\Debug\Tamkeen.MCS.Shared.Domain.Model.csproj.CoreCompileInputs.cache
-C:\SeliemWorkspace\MCS\MCS-TFS\2013\Masar.Shared\Masar.Shared\Shared\Tamkeen.MCS.Shared.Domain.Model\obj\Debug\Tamkeen.MCS.Shared.Domain.Model.dll
-C:\SeliemWorkspace\MCS\MCS-TFS\2013\Masar.Shared\Masar.Shared\Shared\Tamkeen.MCS.Shared.Domain.Model\obj\Debug\Tamkeen.MCS.Shared.Domain.Model.pdb
-C:\SeliemWorkspace\MCS\MCS-TFS\2013\Masar.Shared\Masar.Shared\Shared\Tamkeen.MCS.Shared.Domain.Model\obj\Debug\Tamkeen.MCS.Shared.Domain.Model.csprojAssemblyReference.cache
